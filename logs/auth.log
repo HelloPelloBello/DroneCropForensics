@@ -1,0 +1,3 @@
+Jul 12 05:07:42 ip-172-31-13-21 sshd[1401]: Accepted publickey for ubuntu from 91.203.119.5 port 51324 ssh2: RSA SHA256:FAKEFINGERPRINT
+Jul 12 05:08:03 ip-172-31-13-21 sshd[1401]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Jul 12 05:11:22 ip-172-31-13-21 sshd[1401]: Disconnected from user ubuntu 91.203.119.5 port 51324

